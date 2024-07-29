@@ -1,0 +1,40 @@
+/* ===============css responsive============ */
+
+/* medium layout: 1280px  */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+
+
+
+}
+
+/* Tablet layout: 768px  */
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+
+
+}
+/* Mobile layout: 320px  */
+
+@media only screen and (max-width: 767px){
+
+    #resume-section{
+        text-align: center;
+        margin-top: 0px;
+    }
+    #about-section .about_me{
+        margin-top: 90px;
+    }
+     #about-section{
+        text-align: center;
+     }
+
+}
+
+/* wide mobile layout: 480px  */
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+
+}
